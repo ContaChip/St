@@ -1,0 +1,528 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
+https://archive.org/download/zaltv/zaltv.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",19/Nov/2020
+https://archive.org/download/intro_20191220/INTRO.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+https://archive.org/download/intro_20191220/INTRO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhYNPhN/BABY-TV-IPTVFR.jpg" group-title="KIDS",Baby tv
+https://tecnoplay.club/gema/principal.php?c=11&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHhDwmc/Boomerang.jpg" group-title="KIDS",Boomerang
+https://tecnoplay.club/gema/principal.php?c=153&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xzLfc7H/CARTOON-NETWORK.jpg" group-title="KIDS",Cartoon Network
+https://tecnoplay.club/gema/principal.php?c=21&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vCsk23/Discovery-kids.jpg" group-title="KIDS",Discovery Kids
+https://tecnoplay.club/gema/principal.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCZtnhg/Disney-Channel.jpg" group-title="KIDS",Disney Channel
+https://tecnoplay.club/gema/principal.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LdvjvS/disney-jr.jpg" group-title="KIDS",Disney JR
+https://tecnoplay.club/gema/principal.php?c=47&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fw5rVq/Disney-XD.jpg" group-title="KIDS",Disney XD
+https://tecnoplay.club/gema/principal.php?c=48&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHt7dPy/Natgeo-Kids.jpg" group-title="KIDS",Natgeo Kids
+https://tecnoplay.club/gema/principal.php?c=130&f=.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7NwLTsD/Nickelodeon.jpg" group-title="KIDS",Nickelodeon
+https://tecnoplay.club/gema/principal.php?c=124&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJg6krr/Nick2.jpg" group-title="KIDS",Nick 2
+https://tecnoplay.club/gema/principal.php?c=126&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/88VkhCV/Nick.jpg" group-title="KIDS",Nick JR
+https://tecnoplay.club/gema/principal.php?c=125&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qc0H7KL/Tooncas.jpg" group-title="KIDS",Tooncast
+https://tecnoplay.club/gema/principal.php?c=110&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44sPNz6/ANIMAL-PLANET-PTVFR.jpg" group-title="CULTURA",Animal Planet
+https://tecnoplay.club/gema/principal.php?c=168&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
+https://tecnoplay.club/gema/principal.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
+https://tecnoplay.club/gema/principal.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
+https://tecnoplay.club/gema/principal.php?c=43&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
+https://tecnoplay.club/gema/principal.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
+https://tecnoplay.club/gema/principal.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
+https://tecnoplay.club/gema/principal.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",Tlc
+https://tecnoplay.club/gema/principal.php?c=114&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
+https://tecnoplay.club/gema/principal.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
+https://tecnoplay.club/gema/principal.php?c=93&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
+https://tecnoplay.club/gema/principal.php?c=127&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vd9PF1/National-Geograp.jpg" group-title="CULTURA",National Geographic
+https://tecnoplay.club/gema/principal.php?c=131&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet
+https://tecnoplay.club/gema/principal.php?c=50&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrRCnrz/AMC.jpg" group-title="CINE Y SERIES",Amc
+https://tecnoplay.club/gema/principal.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRjDMwJ/a-amp-e.jpg" group-title="CINE Y SERIES",A&e
+https://tecnoplay.club/gema/principal.php?c=1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cht20hW/Warner-Channel.jpg" group-title="CINE Y SERIES",Warner channenel
+https://tecnoplay.club/gema/principal.php?c=102&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2f4bRr/FOX.jpg" group-title="CINE Y SERIES",Fox Channel
+https://tecnoplay.club/gema/principal.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYFNymr/Universal-channel.jpg" group-title="CINE Y SERIES",Universal
+https://tecnoplay.club/gema/principal.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6DphvY/FOX-LIFE.jpg" group-title="CINE Y SERIES",Fox Life
+https://tecnoplay.club/gema/principal.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyvKB8G/AXN.jpg" group-title="CINE Y SERIES",Axn
+https://tecnoplay.club/gema/principal.php?c=2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5stn54k/SONY.jpg" group-title="CINE Y SERIES",Sony
+https://tecnoplay.club/gema/principal.php?c=120&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrVNhdy/Tnt.jpg" group-title="CINE Y SERIES",Tnt
+https://tecnoplay.club/gema/principal.php?c=113&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XL3MB0M/SPACE.jpg" group-title="CINE Y SERIES",Space
+https://tecnoplay.club/gema/principal.php?c=119&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRgy97L/Studio-Universal.jpg" group-title="CINE Y SERIES",Studio Universal
+https://tecnoplay.club/gema/principal.php?c=118&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWCp9z8/FX-IP.jpg" group-title="CINE Y SERIES",Fx
+https://tecnoplay.club/gema/principal.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C21DyYX/FXHD.jpg" group-title="CINE Y SERIES",Fx Movie
+https://tecnoplay.club/gema/principal.php?c=78&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBBrf9v/TBS.jpg" group-title="CINE Y SERIES",Tbs
+https://tecnoplay.club/gema/principal.php?c=116&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWdwvx0/TCM.jpg" group-title="CINE Y SERIES",Tcm
+https://tecnoplay.club/gema/principal.php?c=115&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thdx4Hh/CINE-CANAL.jpg" group-title="CINE Y SERIES",Cine canal
+https://tecnoplay.club/gema/principal.php?c=22&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8sVg6/CINEMAX.png" group-title="CINE Y SERIES",Cinemax
+https://tecnoplay.club/gema/principal.php?c=316&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkbYPqj/Paramount.jpg" group-title="CINE Y SERIES",Paramount
+https://tecnoplay.club/gema/principal.php?c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVBCfBN/Comedy-Central.jpg" group-title="CINE Y SERIES",Comedy Central
+https://tecnoplay.club/gema/principal.php?c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzQnqbq/cl-sundance-channel-m.png" group-title="CINE Y SERIES",Sundance tv
+https://tecnoplay.club/gema/principal.php?c=117&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MHWNXv/Cinelatino.jpg" group-title="CINE Y SERIES",Cine Latino
+https://tecnoplay.club/gema/principal.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmFm7mZ/TNT-SERIES.jpg" group-title="CINE Y SERIES",Tnt Series
+https://tecnoplay.club/gema/principal.php?c=112&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
+https://tecnoplay.club/gema/principal.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema
+https://tecnoplay.club/gema/principal.php?c=60&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema sub
+https://tecnoplay.club/gema/principal.php?c=61&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nCzFtNW/fox-comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
+https://tecnoplay.club/gema/principal.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjrQQm/FOX-CLASSIC-IPTVFR.jpg" group-title="CINE Y SERIES",Fox Premium Classics
+https://tecnoplay.club/gema/principal.php?c=62&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bsHPy5/fox-family.jpghttps://i.ibb.co/9bsHPy5/fox-family.jpg"group-title="CINE Y SERIES",Fox Premium Family
+https://tecnoplay.club/gema/principal.php?c=64&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series
+https://tecnoplay.club/gema/principal.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series SUB
+https://tecnoplay.club/gema/principal.php?c=70&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sd5rT28/fox-movies.jpg" group-title="CINE Y SERIES",Fox Premium Movies
+https://tecnoplay.club/gema/principal.php?c=67&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden
+https://tecnoplay.club/gema/principal.php?c=81&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden Premier
+https://tecnoplay.club/gema/principal.php?c=82&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO
+https://tecnoplay.club/gema/principal.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO SUB
+https://tecnoplay.club/gema/principal.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHd4GZ3/hbo2.jpg" group-title="CINE Y SERIES",HBO 2
+https://tecnoplay.club/gema/principal.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5hWtZW/HBO-PLUS-IPTVFR.jpg" group-title="CINE Y SERIES",HBO plus
+https://tecnoplay.club/gema/principal.php?c=89&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xfjmtm/HBO-Family.jpg" group-title="CINE Y SERIES",HBO Family
+https://tecnoplay.club/gema/principal.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO Signature
+https://tecnoplay.club/gema/principal.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCnTRrK/max-prime.jpg" group-title="CINE Y SERIES",HBO Mundi
+https://tecnoplay.club/gema/principal.php?c=136&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO Pop
+https://tecnoplay.club/gema/principal.php?c=134&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO EXTREME
+https://tecnoplay.club/gema/principal.php?c=135&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDbjmNX/AZ-CORA.jpg" group-title="ENTRETENIMIENTO",Az Corazon
+https://tecnoplay.club/gema/principal.php?c=4&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K9FqCPZ/LIFETIME.jpg" group-title="ENTRETENIMIENTO",Lifetime
+https://tecnoplay.club/gema/principal.php?c=97&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txXLPPC/MAS-CHIC.jpg" group-title="ENTRETENIMIENTO",Mas Chic
+https://tecnoplay.club/gema/principal.php?c=100&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPG6FJd/AZ-MUND.jpg" group-title="ENTRETENIMIENTO",Az Mundo
+https://tecnoplay.club/gema/principal.php?c=5&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmXRZHr/HOLATV.jpg" group-title="ENTRETENIMIENTO",Hola TV
+https://tecnoplay.club/gema/principal.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51wjY61/logo-multimedios-2.png" group-title="ENTRETENIMIENTO",Multimedios
+https://tecnoplay.club/gema/principal.php?c=150&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kymB7WM/telemundo.jpg" group-title="ENTRETENIMIENTO",Telemundo
+https://tecnoplay.club/gema/principal.php?c=111&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzGc99Y/DHEI.jpg" group-title="ENTRETENIMIENTO",DHE
+https://tecnoplay.club/gema/principal.php?c=34&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
+https://tecnoplay.club/gema/principal.php?c=317&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2
+https://tecnoplay.club/gema/principal.php?c=318&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 [latm]
+https://tecnoplay.club/gema/principal.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 [latm]
+https://tecnoplay.club/gema/principal.php?c=73&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 3 [latm]
+https://tecnoplay.club/gema/principal.php?c=76&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 [MEX]
+https://tecnoplay.club/gema/principal.php?c=75&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 [MEX]
+https://tecnoplay.club/gema/principal.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 [MEX]
+https://tecnoplay.club/gema/principal.php?c=71&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 (latm)
+https://tecnoplay.club/gema/principal.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (latm)
+https://tecnoplay.club/gema/principal.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (latm)
+https://tecnoplay.club/gema/principal.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus (latm)
+https://tecnoplay.club/gema/principal.php?c=54&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn (MEX)
+https://tecnoplay.club/gema/principal.php?c=140&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (MEX)
+https://tecnoplay.club/gema/principal.php?c=141&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (MEX)
+https://tecnoplay.club/gema/principal.php?c=142&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision TUDN
+https://tecnoplay.club/gema/principal.php?c=320&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+https://tecnoplay.club/gema/principal.php?c=31&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTES",Golf Channel
+https://tecnoplay.club/gema/principal.php?c=83&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PDH7DhW/CNN-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="NOTICIAS",Cnn espanol
+https://tecnoplay.club/gema/principal.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61626QC/cnn-internacional-iptv.jpg" group-title="NOTICIAS",Cnn internacional [USA]
+https://tecnoplay.club/gema/principal.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fSRX1nw/GTo-Mw-YPgp71-X-kkdyydnl-Hr9-IVP1ls4l-NC8l-TPi-NU6mz-Fvd-U3-S7-Bp7z-EKd-JH4-PQ7r-Y.png" group-title="NOTICIAS",ADN 40
+https://tecnoplay.club/gema/principal.php?c=148&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6JRTP3/200px-MTV-Logo-svg.png" group-title="MUSICA",MTV
+https://tecnoplay.club/gema/principal.php?c=98&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yYmNVpn/1200px-MTV-Live-svg.png" group-title="MUSICA",MTV Live
+https://tecnoplay.club/gema/principal.php?c=133&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YNcfn34/ar-mtv-hits-m.png" group-title="MUSICA",MTV Hits
+https://tecnoplay.club/gema/principal.php?c=99&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
+https://tecnoplay.club/gema/principal.php?c=91&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fGkNRC/VH1.jpg" group-title="MUSICA",Vh1
+https://tecnoplay.club/gema/principal.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnyQC8x/VH1-CLASSIC.jpg" group-title="MUSICA",Vh1 Classics
+https://tecnoplay.club/gema/principal.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC1cy7m/CONCERT.jpg" group-title="MUSICA",Concert Channel
+https://tecnoplay.club/gema/principal.php?c=33&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="https://i.ibb.co/nffZLsM/alf.jpg" group-title="24/7",Alf
+https://tecnoplay.club/gema/principal.php?c=278&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="https://i.ibb.co/TBM0WnG/animaniacs.png" group-title="24/7",Animaniacs
+https://tecnoplay.club/gema/principal.php?c=279&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="https://i.ibb.co/D97KcxT/Bob-esponja-logotipo.png" group-title="24/7",Bob Sponja
+https://tecnoplay.club/gema/principal.php?c=280&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://i.ibb.co/X3fwsY5/cantinflas.jpg" group-title="24/7",Cantinflas
+https://tecnoplay.club/gema/principal.php?c=281&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="https://i.ibb.co/Z2R10tm/chespitito.webp" group-title="24/7",Chespirito
+https://tecnoplay.club/gema/principal.php?c=282&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="https://i.ibb.co/rtRHtBv/Correcaminos.gif" group-title="24/7",Correcaminos
+https://tecnoplay.club/gema/principal.php?c=283&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="https://i.ibb.co/tzK4pnL/dr-house.jpg" group-title="24/7",Dr House
+https://tecnoplay.club/gema/principal.php?c=284&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="https://i.ibb.co/dr2Ktk0/dragon-ball-gt.jpg" group-title="24/7",Dragon Ball GT
+https://tecnoplay.club/gema/principal.php?c=285&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="https://i.ibb.co/k5j2TXC/Dragon-Ball.png" group-title="24/7",Dragon Ball
+https://tecnoplay.club/gema/principal.php?c=286&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="https://i.ibb.co/zS94rtL/untitled-1-77.jpg" group-title="24/7",Dragon Ball SUPER
+https://tecnoplay.club/gema/principal.php?c=287&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="https://i.ibb.co/FmWRNrg/dragon-ball-z.png" group-title="24/7",Dragon Ball Z
+https://tecnoplay.club/gema/principal.php?c=288&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="https://i.ibb.co/72hD6vr/el-chavo-8.png" group-title="24/7",El chavo del 8
+https://tecnoplay.club/gema/principal.php?c=289&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="https://i.ibb.co/bL26qMQ/futarama.jpg" group-title="24/7",Futurama
+https://tecnoplay.club/gema/principal.php?c=291&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="https://i.ibb.co/QkGf0Rs/325e4c7dbe8bcc1.png" group-title="24/7",La Pantera Rosa
+https://tecnoplay.club/gema/principal.php?c=292&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="https://i.ibb.co/wBr51DW/f67e6ad05f9bf34290e6048e74e54d1c.jpg" group-title="24/7",La Teoria Del Big Bang
+https://tecnoplay.club/gema/principal.php?c=293&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="https://i.ibb.co/p0kpTS8/Los-tres-chiflados-Serie-de-TV-609417213-large.jpg" group-title="24/7",Los 3 chiflados
+https://tecnoplay.club/gema/principal.php?c=295&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="https://i.ibb.co/KrhGZkF/332-3323318-thumb-image-logo-de-los-caballeros-del-zodiaco.png" group-title="24/7",Los Caballeros del Zodiaco
+https://tecnoplay.club/gema/principal.php?c=297&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="https://i.ibb.co/tQcwBgK/122274696f1c7a37438e3452c79fb81d.jpg" group-title="24/7",Los Simpson 2
+https://tecnoplay.club/gema/principal.php?c=299&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="https://i.ibb.co/tQcwBgK/122274696f1c7a37438e3452c79fb81d.jpg" group-title="24/7",Los Simpson
+https://tecnoplay.club/gema/principal.php?c=300&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="https://i.ibb.co/f8rB62f/AL.png" group-title="24/7",Malcolm El De En Medio
+https://tecnoplay.club/gema/principal.php?c=301&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="https://i.ibb.co/GcRNWCC/9-QUdhxw-VT94-Op-Pp-Gfohcs-OZ9-RNnseb-I-KJm-O0w-Z02me1-Ip-T3e-Gk-WMJHBa-HI-Pt-HX5-Tggp-G9-Zs-Ivc-I0.jpg" group-title="24/7",Mr. Bean
+https://tecnoplay.club/gema/principal.php?c=302&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="https://i.ibb.co/m9ZMSdw/3f0d1afe64a74343c0f173faec9df8e0.jpg" group-title="24/7",Naruto
+https://tecnoplay.club/gema/principal.php?c=303&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="https://i.ibb.co/yQv0bwJ/family-logo.jpg" group-title="24/7",Padre De Familia
+https://tecnoplay.club/gema/principal.php?c=304&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="https://i.ibb.co/Kjdj5HW/vector-cinema-icons-concept.jpg" group-title="24/7",Peliculas 2018
+https://tecnoplay.club/gema/principal.php?c=305&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://i.ibb.co/0h9W3sQ/Pokemon-Logo.jpg" group-title="24/7",Pokemon
+https://tecnoplay.club/gema/principal.php?c=308&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="https://i.ibb.co/bm3DVCc/logo-smallville.jpg" group-title="24/7",Smallville
+https://tecnoplay.club/gema/principal.php?c=309&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://i.ibb.co/nkjmRSy/1200px-South-park-sign-svg.png" group-title="24/7",South Park
+https://tecnoplay.club/gema/principal.php?c=310&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="https://i.ibb.co/gFngXZZ/Thundercats-Logo-large.jpg" group-title="24/7",Thundercats
+https://tecnoplay.club/gema/principal.php?c=311&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Mexico",Las Estrellas 
+https://tecnoplay.club/gema/principal.php?c=18&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="Mexico",Foro tv
+https://tecnoplay.club/gema/principal.php?c=149&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5
+https://tecnoplay.club/gema/principal.php?c=145&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://www.mimorelia.com/wp-content/uploads/2019/01/noticias/24/azteca.jpg" group-title="Mexico",Azteca 7
+https://tecnoplay.club/gema/principal.php?c=147&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/nueve.png" group-title="Mexico",Nu9ve
+https://tecnoplay.club/gema/principal.php?c=143&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/az%20corazon.png" group-title="Mexico",Az Corazon
+https://tecnoplay.club/gema/principal.php?c=4&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2018/08/az-clic-2.png" group-title="Mexico",Az Clic
+https://tecnoplay.club/gema/principal.php?c=142&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://200.77.160.48:8090/izzi/v3/img/dummy-img/channels/AZTECA_UNO_HD.png" group-title="Mexico",Az uno
+https://tecnoplay.club/gema/principal.php?c=146&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/AZMUNDO.jpg" group-title="Mexico",Az Mundo
+https://tecnoplay.club/gema/principal.php?c=5&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/adn40.jpg" group-title="Mexico",ADN 40
+https://tecnoplay.club/gema/principal.php?c=148&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/IMAGENTELE.png" group-title="Mexico",Imagen TV
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/rve.png" group-title="Mexico",TVE
+https://tecnoplay.club/gema/principal.php?c=109&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg" group-title="Mexico",Televisa monterrey
+https://tecnoplay.club/gema/principal.php?c=152&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-multimedios-tv-1152.png" group-title="Mexico",Multimedios
+https://tecnoplay.club/gema/principal.php?c=150&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/240px-TeleSUR-Logo.svg.png" group-title="Venezuela",TeleSur 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://corazonllanero.com/main/static/img/isotipocoll.png" group-title="Venezuela",Corazon Llanero
+https://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/chunklis&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="Venezuela",Promar Tv
+https://vcp1.myplaytv.com/promar/promar/chunklist&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://lateletuya.com/wp-content/uploads/2019/09/logoTLT_horizontal_2019_blanco.png" group-title="Venezuela",La tele tuya
+https://backup9.lateletuya.com/TeLeTeve/stream.stream/playlist&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/2t2ZdXs/TELE-ARGE.jpg" group-title="Argentina",Television Publica
+https://tecnoplay.club/gema/principal.php?c=210&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/5F9BykT/ar-telefe-m.png" group-title="Argentina",Telefe
+https://tecnoplay.club/gema/principal.php?c=212&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/rtV1yvC/ENCUENTRO.jpg" group-title="Argentina",Todo Noticias TN
+https://tecnoplay.club/gema/principal.php?c=221&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p4VztQk/ar-el-trece-m.png" group-title="Argentina",El trece
+https://tecnoplay.club/gema/principal.php?c=213&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tPWH422/NUEVE.jpg" group-title="Argentina",El Nueve
+https://tecnoplay.club/gema/principal.php?c=211&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DgTK0PR/CRONICATV.jpg" group-title="Argentina",Trece Max
+https://tecnoplay.club/gema/principal.php?c=222&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/R2GzXHM/Telemax.png" group-title="Argentina",Telemax
+https://tecnoplay.club/gema/principal.php?c=223&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ngxxXzP/CINE.jpg" group-title="Argentina",CINE.AR
+https://tecnoplay.club/gema/principal.php?c=219&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yfJXRWy/247-Noticias.png" group-title="Argentina",24/7 Noticias
+https://tecnoplay.club/gema/principal.php?c=226&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/vqJRhYN/c5n-tv.jpg" group-title="Argentina",C5N
+https://tecnoplay.club/gema/principal.php?c=207&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/d7yLKNc/america.jpg" group-title="Argentina",America TV
+https://tecnoplay.club/gema/principal.php?c=209&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/pXZt7rd/A24.png" group-title="Argentina",A24
+https://tecnoplay.club/gema/principal.php?c=208&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/QrZq81j/El-Garage-TV.png" group-title="Argentina",El Garage TV
+https://tecnoplay.club/gema/principal.php?c=225&f=.m3u8 
+#EXTINF:-1, tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kx9yJtg/Argentinisima.jpg" group-title="Argentina",Argentinisima
+https://tecnoplay.club/gema/principal.php?c=227&f=.m3u8 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://imgur.com/gnhELOi.png" group-title="Colombia",RedTv
+https://infored.lcdn.claro.net.co/Content/hls_clear/Live/Channel(REDTVHD)/index&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colombia",Trece
+https://tecnoplay.club/gema/principal.php?c=191&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN 2
+https://tecnoplay.club/gema/principal.php?c=241&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN
+https://tecnoplay.club/gema/principal.php?c=121&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://venezolanossiempre.files.wordpress.com/2018/04/f5b96-logoeltiempo.jpg" group-title="Colombia",El Tiempo
+https://tecnoplay.club/gema/principal.php?c=238&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/qy7F0zN/CARACOL-INT.jpg" group-title="Colombia",Caracol 2
+https://tecnoplay.club/gema/principal.php?c=235&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/JjfNJBR/caracol-tv.jpg" group-title="Colombia",Caracol
+https://tecnoplay.club/gema/principal.php?c=19&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://oer2go.org:81/wikipedia_es_all_2016-02/I/m/CTV_LOGO.png" group-title="Colombia",Cantinazo
+https://tecnoplay.club/gema/principal.php?c=234&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal Uno
+https://tecnoplay.club/gema/principal.php?c=233&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://lh3.googleusercontent.com/-x7zN4RKXaR4/VhAVobXrg0I/AAAAAAAAByc/RNxc57Z-ZM8/s300-Ic42/canal-capital-en-vivo.png" group-title="Colombia",Canal Capital
+https://tecnoplay.club/gema/principal.php?c=230&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Colombia",City TV.
+https://tecnoplay.club/gema/principal.php?c=26&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",City Tv
+https://tecnoplay.club/gema/principal.php?c=236&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Cosmovision
+https://tecnoplay.club/gema/principal.php?c=237&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",La Kalle
+https://tecnoplay.club/gema/principal.php?c=239&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",NTN24
+https://tecnoplay.club/gema/principal.php?c=240&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Senal Colombia
+https://tecnoplay.club/gema/principal.php?c=242&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tacho Pistacho
+https://tecnoplay.club/gema/principal.php?c=243&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",TeleAntioquia
+https://tecnoplay.club/gema/principal.php?c=244&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecafe
+https://tecnoplay.club/gema/principal.php?c=245&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecaribe
+https://tecnoplay.club/gema/principal.php?c=246&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telemedellin
+https://tecnoplay.club/gema/principal.php?c=247&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telepacifico
+https://tecnoplay.club/gema/principal.php?c=248&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Trece
+https://tecnoplay.club/gema/principal.php?c=249&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tvgro
+https://tecnoplay.club/gema/principal.php?c=250&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Teleamiga
+https://tecnoplay.club/gema/principal.php?c=251&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Televid
+https://tecnoplay.club/gema/principal.php?c=252&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvglogo="" group-title="Colombia",Canal Institucional
+https://tecnoplay.club/gema/principal.php?c=231&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Tro
+https://tecnoplay.club/gema/principal.php?c=232&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/smvN6yQ/TVPRU.png" group-title="Peru",Tv Peru
+https://tecnoplay.club/gema/principal.php?c=182&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yWBfSvr/Peru-MAGICO.jpg" group-title="Peru",Peru Magico
+https://tecnoplay.club/gema/principal.php?c=176&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/WDP6HZH/PANAMERICANO.jpg" group-title="Peru",Panamericana
+https://tecnoplay.club/gema/principal.php?c=172&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Frecuencia_Latina_HD.jpg" group-title="Peru",Frecuencia Latina
+https://tecnoplay.club/gema/principal.php?c=171&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/NFXTMpX/AMERICA-TV-Peru.png" group-title="Peru",America TV
+https://tecnoplay.club/gema/principal.php?c=169&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ccy79wk/ATVPeru.png" group-title="Peru",ATV
+https://tecnoplay.club/gema/principal.php?c=170&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Zh523G9/Movistar-Plus.png" group-title="Peru",Movistar Plus
+https://tecnoplay.club/gema/principal.php?c=175&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/nC1PYnY/Ctc-Cusco.png" group-title="Peru",Ctc Cusco
+https://tecnoplay.club/gema/principal.php?c=178&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kmf9y61/Ovacion.png" group-title="Peru",Ovacion
+https://tecnoplay.club/gema/principal.php?c=179&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/m8g6YHv/Antares-TV.jpg" group-title="Peru",Antares TV
+https://tecnoplay.club/gema/principal.php?c=180&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tmCFDVt/TV-Peru-Noticias.jpg" group-title="Peru",TV Peru Noticias
+https://tecnoplay.club/gema/principal.php?c=183&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Nyrf5sv/La-Tele.jpg" group-title="Peru",La Tele
+https://tecnoplay.club/gema/principal.php?c=184&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DLwBLcB/Canal-IPE.jpg" group-title="Peru",Canal IPE
+https://tecnoplay.club/gema/principal.php?c=185&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/jHGBLqX/Canal-N.png" group-title="Peru",Canal N
+https://tecnoplay.club/gema/principal.php?c=187&f=.m3u8 
+
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qJTRdDB/13C.png" group-title="Chile",13C
+https://tecnoplay.club/gema/principal.php?c=188&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RhM0qRd/13i.png" group-title="Chile",13i
+https://tecnoplay.club/gema/principal.php?c=189&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CGtDXf/24-Horas.png" group-title="Chile",24 Horas
+https://tecnoplay.club/gema/principal.php?c=190&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jT5q53/Teletrak.jpg" group-title="Chile",Teletrak HD
+https://tecnoplay.club/gema/principal.php?c=200&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VrcHBx/Chilevision.jpg" group-title="Chile",Chilevision
+https://tecnoplay.club/gema/principal.php?c=201&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTgTwRM/La-Red.png" group-title="Chile",La Red
+https://tecnoplay.club/gema/principal.php?c=202&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc4Vfsp/Mega.jpg" group-title="Chile",Mega
+https://tecnoplay.club/gema/principal.php?c=203&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mv50381/TVN.jpg" group-title="Chile",TVN
+https://tecnoplay.club/gema/principal.php?c=205&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znzLp4p/CNN.jpg" group-title="Chile",CNN
+https://tecnoplay.club/gema/principal.php?c=206&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Uno
+https://tecnoplay.club/gema/principal.php?c=156&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canela Tv
+https://tecnoplay.club/gema/principal.php?c=157&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV
+https://tecnoplay.club/gema/principal.php?c=158&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa
+https://tecnoplay.club/gema/principal.php?c=159&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavision
+https://tecnoplay.club/gema/principal.php?c=160&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gol TV
+https://tecnoplay.club/gema/principal.php?c=161&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar
+https://tecnoplay.club/gema/principal.php?c=162&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Rts
+https://tecnoplay.club/gema/principal.php?c=163&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Tc Television
+https://tecnoplay.club/gema/principal.php?c=164&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas
+https://tecnoplay.club/gema/principal.php?c=165&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Televicentro
+https://tecnoplay.club/gema/principal.php?c=166&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",ECDF
+https://tecnoplay.club/gema/principal.php?c=167&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02WHdCW/Wipr-Canal-6.png" group-title="Puerto Rico",Wipr Canal 6
+https://tecnoplay.club/gema/principal.php?c=269&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k3XKjZ2/MEGATV.jpg" group-title="Puerto Rico",Mega TV
+https://tecnoplay.club/gema/principal.php?c=270&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/st6nDtq/Telemundo-Puerto-Rico.png" group-title="Puerto Rico",Telemundo
+https://tecnoplay.club/gema/principal.php?c=271&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnF1nG5/UNIVISION-PUERTO-RICO.jpg" group-title="Puerto Rico",Univision
+https://tecnoplay.club/gema/principal.php?c=272&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7SjG0wc/WAPA-PUERTORICO.jpg" group-title="Puerto Rico",Wapa
+https://tecnoplay.club/gema/principal.php?c=273&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz8BJrk/WAPA-2-PUERTO-RICO.jpg" group-title="Puerto Rico",Wapa 2
+https://tecnoplay.club/gema/principal.php?c=274&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Z3Gts/WAPA-AMERICA.jpg" group-title="Puerto Rico",Wapa America
+https://tecnoplay.club/gema/principal.php?c=275&f=.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpXGh18/RPC.jpg" group-title="Paraguay",RPC
+https://tecnoplay.club/gema/principal.php?c=263&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWpsJcM/Telefuturo.jpg" group-title="Paraguay",Telefuturo
+https://tecnoplay.club/gema/principal.php?c=264&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7nxPFj/Tigo-Sports.jpg" group-title="Paraguay",Tigo Sports
+https://tecnoplay.club/gema/principal.php?c=266&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3R4Sdz7/Tigo-Sports-PLUS.jpg" group-title="Paraguay",Tigo Sports Plus
+https://tecnoplay.club/gema/principal.php?c=267&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjnBz97/Unicanal.jpg" group-title="Paraguay",Unicanal
+https://tecnoplay.club/gema/principal.php?c=268&f=.m3u8 
